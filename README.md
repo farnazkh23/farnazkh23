@@ -1,4 +1,3 @@
-# Farnaz
 # Hi, I’m Farnaz 👋
 
 I work at the intersection of **network security, critical infrastructure, and AI-powered systems**.
