@@ -1,33 +1,16 @@
-# Hi, I’m Farnaz 👋
+# Hi, I'm Farnaz 👋
 
-I work at the intersection of **network security, critical infrastructure, and AI-powered systems**.
+**Networking & Network Security | AI Enthusiast | Curious Builder**
 
-I’m currently part of the Network Security environment at **Swissgrid**, and I use hackathons as a way to explore how modern AI systems can be applied to real operational problems — from risk monitoring to situation intelligence and decision support.
+I'm a technology enthusiast with a background in networking and network security, and a growing passion for AI and software development.
 
-## Currently building
+I love exploring unfamiliar technologies, connecting ideas and turning creative concepts into working projects.
 
-### HYDRA — Real-Time Risk Intelligence
+Hackathons are my favourite playground for learning, experimenting and collaborating with people from different backgrounds.
 
-HYDRA is a multi-layered risk intelligence prototype built during SwissHacks 2026.
+Currently exploring **agentic AI, AI-assisted development and software architecture**.
 
-It continuously monitors changing signals, filters out noise cheaply, detects meaningful drift, and escalates relevant changes into deeper reasoning layers.
-
-The core idea:
-
-> Detect important change before it becomes a critical situation.
-
-HYDRA combines:
-
-* event-driven signal intake
-* cheap first-pass filtering
-* baseline comparison
-* semantic drift detection
-* graph-based dependency reasoning
-* short-term risk trajectory logic
-* cost-aware model routing
-* explainable traces for human review
-
-The first use case is financial/KYC risk monitoring, but the architecture is broader: it can be adapted to any environment where live state, external signals, dependencies, and early warning matter.
+Always curious. Always learning. Always building. 🚀
 
 ## What I care about
 
